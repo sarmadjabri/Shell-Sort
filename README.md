@@ -1,1 +1,1 @@
-Shell sort is a sorting algorithm used for sorting am array of numbers but is not very efficient. Extremely small project for no purpose.
+Quick sort is a sorting algorithm used for sorting am array of numbers which has a "speed" of 0(n log n)
